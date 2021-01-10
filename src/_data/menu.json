@@ -4,12 +4,24 @@
         "url": "/about"
     },
     {
+        "label": "Books",
+        "url": "/tags/books"
+    },
+    {
+        "label": "Music",
+        "url": "/tags/music"
+    },
+    {
+        "label": "Movies",
+        "url": "/tags/movies"
+    },
+    {
         "label": "Tag List",
         "url": "/tags"
     },
     {
         "label": "GitHub",
-        "url": "https://github.com/alsessions",
+        "url": "https://github.com/alsessions/media",
         "newTab": true
     }
 ]
