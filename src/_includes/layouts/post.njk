@@ -20,12 +20,12 @@ layout: default
 </div>
 <article class="max-w-5xl mx-auto">
     <header>
-        <h1 class="text-3xl text-center leading-normal text-gray-00 mt-4 mb-3">{{ title }}</h1>
+        <h1 class="text-4xl text-center leading-normal text-gray-00 mt-4">{{ title }}</h1>
         {% if writer %}
-            <p class="text-center">{{ writer }}</p>
+            <p class="text-center text-2xl">{{ writer }}</p>
         {% endif %}
 {% if released %}
-                <div class="text-center">Released: {{ released | safe }}</div>
+                <div class="text-center text-2xl">{{ released | safe }}</div>
                 {% endif %}
         {% if tags %}
             <div class="mt-3 text-center">

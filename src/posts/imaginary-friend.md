@@ -3,8 +3,9 @@ title: "Imaginary Friend"
 date: 2021-01-08
 thumb: "imaginary-friend.jpeg"
 writer: "Stephen Chbosky"
+released: "September, 2019"
 tags: 
-    - sci-fi
+    
     - fantasy
     - horror
     - books
