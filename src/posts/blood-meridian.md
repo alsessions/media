@@ -3,6 +3,7 @@ title: "Blood Meridian"
 date: 2021-01-07
 thumb: "blood-meridian.jpeg"
 writer: "Cormac McCarthy"
+released: "1987-04-01"
 layout: post
 tags: 
     - books
