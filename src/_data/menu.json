@@ -16,6 +16,10 @@
         "url": "/tags/movies"
     },
     {
+        "label": "Stories",
+        "url": "/tags/stories"
+    },
+    {
         "label": "Tag List",
         "url": "/tags"
     },
