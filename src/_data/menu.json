@@ -1,3 +1,4 @@
+
 [
     {
         "label": "About",
@@ -14,6 +15,10 @@
     {
         "label": "Movies",
         "url": "/tags/movies"
+    },
+    {
+        "label": "Stories",
+        "url": "/tags/stories"
     },
     {
         "label": "Tag List",

@@ -1,5 +1,5 @@
 {
-	"name": "vredeburg",
+	"name": "alsession",
 	"version": "1.0.0",
 	"description": "",
 	"scripts": {
@@ -10,14 +10,14 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/dafiulh/vredeburg.git"
+		"url": "git+https://github.com/alsessions/medi.git"
 	},
 	"author": "Dafiul Haq",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/dafiulh/vredeburg/issues"
+		"url": "https://github.com/alsessions/media/issues"
 	},
-	"homepage": "https://github.com/dafiulh/vredeburg#readme",
+	"homepage": "https://github.com/alsessions/media#readme",
 	"devDependencies": {
 		"@11ty/eleventy": "^0.11.1",
 		"@tailwindcss/typography": "^0.3.1",
@@ -28,5 +28,8 @@
 		"luxon": "^1.24.1",
 		"rimraf": "^3.0.2",
 		"terser": "^4.8.0"
+	},
+	"dependencies": {
+		"@11ty/eleventy-img": "^0.7.8"
 	}
 }
