@@ -10,7 +10,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/alsessions/medi.git"
+		"url": "git+https://github.com/alsessions/media.git"
 	},
 	"author": "Dafiul Haq",
 	"license": "MIT",
