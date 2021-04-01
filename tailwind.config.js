@@ -38,7 +38,8 @@ module.exports = {
         800: '#2d3748',
         900: '#1a202c'
       },
-      teal: colors.teal
+      teal: colors.teal,
+      red: colors.red
     },
     extend: {
       typography: (theme) => ({

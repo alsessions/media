@@ -28,5 +28,8 @@
 		"luxon": "^1.24.1",
 		"rimraf": "^3.0.2",
 		"terser": "^4.8.0"
+	},
+	"dependencies": {
+		"@11ty/eleventy-img": "^0.7.8"
 	}
 }

@@ -22,13 +22,19 @@ layout: default
 </div>
 <article class="max-w-5xl mx-auto">
     <header>
-        <h1 class="text-4xl text-center leading-normal text-gray-00 mt-4">{{ title }}</h1>
+        <h1 class="text-4xl text-center leading-normal text-gray-800 mt-4">{{ title }}</h1>
         {% if writer %}
             <p class="text-center text-2xl">{{ writer }}</p>
         {% endif %}
+<<<<<<< HEAD
         {% if released %}
             <div class="text-center text-2xl">{{ released | safe }}</div>
         {% endif %}
+=======
+{% if released %}
+                <div class="text-center text-xl text-gray-600 italic">{{ released | safe }}</div>
+                {% endif %}
+>>>>>>> f01385ff1b95b2e70ec9f1ae903044e7302d0d8f
         {% if tags %}
             <div class="mt-3 text-center">
                 {% for tag in tags %}

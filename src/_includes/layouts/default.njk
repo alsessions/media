@@ -43,7 +43,7 @@
 
 <body class=" h-screen bg-white text-gray-800 break-words">
     {% include "partials/header.njk" %}
-    <main class="mx-7 lg:mx-6  flex-grow min-h-screen">
+    <main class="px-6  flex-grow min-h-screen">
         {% if layout === "post" %}
         {{ content | safe }}
         {% else %}
