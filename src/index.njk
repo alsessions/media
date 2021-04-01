@@ -6,7 +6,10 @@ pagination:
     alias: paged
 permalink: "{% if paged.number > 1 %}page/{{ paged.number }}/{% endif %}index.html"
 ---
-
+<div class="my-32 text-center">
+<h1 class="text-4xl">A Silly Proof of Concept</h1>
+<h2 class="text-3xl">With all sorts of wackiness.</h2>
+</div>
 <div class="flex flex-wrap -mx-2">
     {% include "partials/post-grid.njk" %}
 </div>

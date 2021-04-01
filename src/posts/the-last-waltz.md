@@ -4,7 +4,6 @@ date: 2021-01-10
 thumb: "last-waltz.jpeg"
 writer: "The Band"
 tags: 
-    - books
     - music
     - movies
     - media
